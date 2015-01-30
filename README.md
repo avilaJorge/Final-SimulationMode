@@ -23,4 +23,4 @@ Extra credit: Get your code to run as fast as my example for bias levels less th
 
 ======
 
-#### Please see Final exam score.txt for final score
+#### Please see FinalExamScore.txt for final score
